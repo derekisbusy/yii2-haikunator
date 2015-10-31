@@ -11,9 +11,7 @@
             "email": "mail@atrox.me"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {},
-    "require-dev": {},
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "derekisbusy\\haikunator\\": ""
