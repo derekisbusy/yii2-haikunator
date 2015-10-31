@@ -9,7 +9,7 @@
 Generate Heroku-like random names to use in your PHP applications.
 
 *This package has been forked from the original [HaikunatorPHP](https://github.com/Atrox/haikunatorphp) repository and
-modified to work with Yii2*
+modified to work with Yii2 autoloader.*
 
 ## Installation
 
