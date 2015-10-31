@@ -3,6 +3,8 @@
 [![Build Status](https://img.shields.io/travis/Atrox/haikunatorphp.svg?style=flat-square)](https://travis-ci.org/Atrox/haikunatorphp)
 [![Latest Version](https://img.shields.io/packagist/v/Atrox/haikunator.svg?style=flat-square)](https://packagist.org/packages/atrox/haikunator)
 [![Coverage Status](https://img.shields.io/coveralls/Atrox/haikunatorphp.svg?style=flat-square)](https://coveralls.io/r/Atrox/haikunatorphp)
+[![Packagist](https://img.shields.io/packagist/dt/derekisbusy/yii2-haikunator.svg?style=flat-square)](https://packagist.org/packages/derekisbusy/yii2-haikunator)
+
 
 Generate Heroku-like random names to use in your PHP applications.
 
