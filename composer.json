@@ -1,5 +1,5 @@
 {
-    "name": "derekisbusy/haikunator",
+    "name": "derekisbusy/yii2-haikunator",
     "description": "Generate Heroku-like random names to use in your php applications.",
     "keywords": ["yii2", "user", "username", "random", "generator", "nickname"],
     "license": "GPLv3",
