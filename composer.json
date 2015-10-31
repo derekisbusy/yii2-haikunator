@@ -1,6 +1,7 @@
 {
-    "name": "atrox/haikunator",
+    "name": "derekisbusy/haikunator",
     "description": "Generate Heroku-like random names to use in your php applications.",
+    "keywords": ["yii2", "user", "username", "random", "generator", "nickname"],
     "license": "GPLv3",
     "authors": [
         {
@@ -11,13 +12,11 @@
     "minimum-stability": "stable",
     "require": {},
     "require-dev": {
-      "phpunit/phpunit": "4.5.*",
-      "phpunit/php-code-coverage": "2.2.*",
       "satooshi/php-coveralls": "dev-master"
     },
     "autoload": {
-      "classmap": [
-        "src/"
-      ]
-    }
+        "psr-4": {
+            "comyii\\user\\": ""
+        }
+    },
 }
