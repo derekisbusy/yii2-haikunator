@@ -9,7 +9,7 @@ Generate Heroku-like random names to use in your PHP applications.
 ## Installation
 
 ```
-composer require derekisbusy/haikunator
+composer require derekisbusy/yii2-haikunator
 ```
 
 ## Usage
