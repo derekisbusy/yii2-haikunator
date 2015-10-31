@@ -1,4 +1,4 @@
-# HaikunatorPHP
+# Yii2-Haikunator
 
 [![Build Status](https://img.shields.io/travis/Atrox/haikunatorphp.svg?style=flat-square)](https://travis-ci.org/Atrox/haikunatorphp)
 [![Latest Version](https://img.shields.io/packagist/v/Atrox/haikunator.svg?style=flat-square)](https://packagist.org/packages/atrox/haikunator)
@@ -9,7 +9,7 @@ Generate Heroku-like random names to use in your PHP applications.
 ## Installation
 
 ```
-composer require atrox/haikunator
+composer require derekisbusy/haikunator
 ```
 
 ## Usage
