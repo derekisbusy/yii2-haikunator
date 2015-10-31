@@ -1,6 +1,6 @@
 {
-    "name": "derekisbusy/yii2-haikunator",
-    "description": "Generate Heroku-like random names to use in your php applications.",
+    "name": "derekisbusy/Yii2-haikunator",
+    "description": "Generate Heroku-like random names to use in your Yii2 php applications.",
     "keywords": ["yii2", "user", "username", "random", "generator", "nickname"],
     "license": "GPLv3",
     "authors": [
@@ -11,9 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {},
-    "require-dev": {
-      "satooshi/php-coveralls": "dev-master"
-    },
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "derekisbusy\\haikunator\\": ""
