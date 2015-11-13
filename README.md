@@ -22,7 +22,7 @@ composer require derekisbusy/yii2-haikunator
 Haikunator is pretty simple.
 
 ```php
-use Atrox\Haikunator;
+use derekisbusy\haikunator\Haikunator;
 
 // default usage
 Haikunator::haikunate() // => "wispy-dust-1337"
