@@ -1,6 +1,7 @@
 <?php
+namespace derekisbusy\haikunator\tests;
 
-use Atrox\Haikunator;
+use derekisbusy\haikunator\Haikunator;
 
 class HaikunatorTest extends PHPUnit_Framework_TestCase
 {

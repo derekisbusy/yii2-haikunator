@@ -2,7 +2,7 @@
 
 namespace derekisbusy\haikunator;
 
-class Haikunator
+class Haikunator extends \yii\base\Object
 {
     public static $ADJECTIVES = [
         "autumn", "hidden", "bitter", "misty", "silent", "empty", "dry", "dark",
