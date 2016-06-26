@@ -16,7 +16,7 @@ class Haikunator extends \yii\base\Object
         "polished", "ancient", "purple", "lively", "nameless", "lucky", "odd", "tiny",
         "free", "dry", "yellow", "orange", "gentle", "tight", "super", "royal", "broad",
         "steep", "flat", "square", "round", "mute", "noisy", "hushy", "raspy", "soft",
-        "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shinny",
+        "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shiney",
     ];
 
     public static $NOUNS = [
